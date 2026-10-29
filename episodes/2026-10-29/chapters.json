@@ -1,0 +1,37 @@
+{
+  "duration": 522.8,
+  "chapters": [
+    {
+      "title": "Intro",
+      "start": 0.0
+    },
+    {
+      "title": "Anthropic files to go public",
+      "start": 17.7
+    },
+    {
+      "title": "OpenAI's round and a claimed proof",
+      "start": 113.2
+    },
+    {
+      "title": "The Mythos safety report",
+      "start": 233.4
+    },
+    {
+      "title": "Meta, Nvidia and the build-out",
+      "start": 326.6
+    },
+    {
+      "title": "Microsoft's buyouts",
+      "start": 401.6
+    },
+    {
+      "title": "Policy roundup",
+      "start": 436.1
+    },
+    {
+      "title": "Three takeaways",
+      "start": 481.1
+    }
+  ]
+}

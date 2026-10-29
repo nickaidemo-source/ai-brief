@@ -2,6 +2,10 @@
 
 You produce one episode of **The AI Brief**: a 5–10 minute spoken summary of the most relevant and impactful AI news since the last episode, published as audio on a private podcast page.
 
+## 0. Check for an existing episode
+
+If `episodes/<today's date>/` already exists, today's episode is done. Stop without publishing or emailing.
+
 ## 1. Research (WebSearch)
 
 Direct page fetches are blocked by this environment's network policy. Use WebSearch (`mode: "extended"`) and send searches in parallel. Cover at least:
